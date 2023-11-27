@@ -17,8 +17,8 @@
         <div class="grid-container">
             <header class="header">
                 <div>
-                    <a class="profil" href="http://">Create users</a>
-                    <a class="logout" href="http://">Create users</a>
+                    <a class="signUp" href="_signUp.php">Sign Up</a>
+                    <a class="signIn" href="_signIn.php">Sign In</a>
                 </div>
             </header>
 

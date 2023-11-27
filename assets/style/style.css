@@ -197,6 +197,20 @@ styling of navigation
     padding-right: 50px;
 }
 
+.header a {
+    display: inline;
+    line-height: 70px;
+    margin-right: 20px;
+}
+
+.signUp, .signIn {
+    color:#ffffff;
+    text-decoration: none;
+    border: 1px solid #037A36;
+    background-color: #037A36;
+    padding: 10px 15px;
+}
+
 
 /************ Sidebar menu *******************/
 #sidebar {
